@@ -1,0 +1,233 @@
+#EXTM3U
+
+#EXTINF:0,hr1
+#EXTVLCOPT:network-caching=2000
+http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u
+#EXTINF:0,hr2
+#EXTVLCOPT:network-caching=2000
+http://metafiles.gl-systemhaus.de/hr/hr2_2.m3u
+#EXTINF:0,hr3
+#EXTVLCOPT:network-caching=2000
+http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u
+#EXTINF:0,hr4
+#EXTVLCOPT:network-caching=2000
+http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u
+#EXTINF:0,hr_info
+#EXTVLCOPT:network-caching=2000
+http://metafiles.gl-systemhaus.de/hr/hrinfo_1.m3u
+#EXTINF:0,Radio Wattwurm
+#EXTVLCOPT:network-caching=1000
+http://radio-wattwurm.de/listen.pls
+#EXTINF:0,Hitradio Ö3 | Austria
+#EXTVLCOPT:network-caching=2000
+http://mp3stream7.apasf.apa.at/listen.pls
+#EXTINF:0,MDR Sputnik
+#EXTVLCOPT:network-caching=2000
+http://avw.mdr.de/streams/284330-0_mp3_high.m3u
+#EXTINF:0,NRK P3 | Norway
+#EXTVLCOPT:network-caching=1000
+http://lyd.nrk.no/nrk_radio_p3_mp3_m
+#EXTINF:0,Metropol FM | Germany/Turkey
+#EXTVLCOPT:network-caching=1000
+http://mfm1.webradiostreaming.de:8250/1
+#EXTINF:0,Das Ding FM
+#EXTVLCOPT:network-caching=500
+https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/aac/96/stream.aac
+#EXTINF:0,MDR Figaro
+#EXTVLCOPT:network-caching=2000
+http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+#EXTINF:0,RadioSwissJazz.ch
+#EXTVLCOPT:network-caching=2000
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:0,NRK Jazz | Norway
+#EXTVLCOPT:network-caching=2000
+http://lyd.nrk.no/nrk_radio_jazz_mp3_m
+#EXTINF:0,Radio ZET Chilli | PL
+#EXTVLCOPT:network-caching=2000
+http://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5
+#EXTINF:0,RMF Classic | RU
+#EXTVLCOPT:network-caching=2000
+http://46.160.36.66:8000/rmf_classic.mp3
+#EXTINF:0,NRK Klassisk | Norway
+#EXTVLCOPT:network-caching=1000
+http://lyd.nrk.no/nrk_radio_klassisk_mp3_m
+#EXTINF:0,MDR 1 Radio Thüringen
+#EXTVLCOPT:network-caching=2000
+http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
+#EXTINF:0, SWR ReinlandPfalz
+#EXTVLCOPT:network-caching=2000
+http://mp3-live.swr.de/swr1rp_m.m3u
+#EXTINF:0,SWR Info/Aktuell
+#EXTVLCOPT:network-caching=2000
+http://mp3-live.swr.de/swraktuell_s.m3u
+#EXTINF:0,AFN Wiesbaden | US
+#EXTVLCOPT:network-caching=2000
+https://25433.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
+#EXTINF:0,AFN Bayern | US
+#EXTVLCOPT:network-caching=2000
+https://25703.live.streamtheworld.com/AFNE_BAV_SC?csegid=2
+#EXTINF:0,BFBS2 | UK
+#EXTVLCOPT:network-caching=600
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs2.aac
+#EXTINF:0,BFBS Germany | UK
+#EXTVLCOPT:network-caching=500
+http://icy-e-05-gos.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:0,BFBS | Cannada
+#EXTVLCOPT:network-caching=1000
+http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs12.aac
+#EXTINF:0,BBC World Service | UK
+#EXTVLCOPT:network-caching=500
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:0,1 Live
+#EXTVLCOPT:network-caching=500
+http://www.wdr.de/wdrlive/media/einslive.m3u
+#EXTINF:0,Radio21 Hannover
+http://188.94.97.91/radio21.mp3
+#EXTINF:0,N Joy
+#EXTVLCOPT:network-caching=500
+https://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u
+#EXTINF:0,N Blue
+#EXTVLCOPT:network-caching=500
+http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u
+#EXTINF:0,You FM
+#EXTVLCOPT:network-caching=500
+http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
+#EXTINF:0,Radio Oberösterreich
+#EXTVLCOPT:network-caching=2000
+http://194.232.200.148/listen.pls
+#EXTINF:0,Radio Tirol
+#EXTVLCOPT:network-caching=2000
+http://194.232.200.159/listen.pls
+#EXTINF:0,Radio Regenbogen
+#EXTVLCOPT:network-caching=100
+http://scast.regenbogen.de/live
+#EXTINF:0,103 Radio
+#EXTVLCOPT:network-caching=2000
+http://streaming.103radio.fr/128
+#EXTINF:0, DeepFM | NL
+#EXTVLCOPT:network-caching=100
+http://stream.deep.radio/sd
+#EXTINF:0,Technobase.fm
+#EXTVLCOPT:network-caching=1000
+http://listen.technobase.fm/tunein-mp3-pls
+#EXTINF:0,ILOVETECHNO.FM
+#EXTVLCOPT:network-caching=1000
+http://ilovetechno.fm:8000/techno
+#EXTINF:0,Radio Sputnik | House | NL
+#EXTVLCOPT:network-caching=1000
+http://radiosputnik.nl:8002/;stream.mp3
+#EXTINF:0,SPUTNIK Roboton Channel | DE
+#EXTVLCOPT:network-caching=1000
+http://avw.mdr.de/streams/284331-5_mp3_high.m3u
+#EXTINF:0,Flaix FM | Spain
+#EXTVLCOPT:network-caching=1000
+http://flaixfmweb.streaming-pro.com:8000
+
+#EXTINF:0,Sunshine-Live | Live | LoadTime!
+#EXTVLCOPT:network-caching=100
+https://stream.sunshine-live.de/live/mp3-192/
+
+#EXTINF:0,Sunshine-Live | Drum and Bass | LoadTime!
+#EXTVLCOPT:network-caching=100
+https://stream.sunshine-live.de/dnb/mp3-192/
+
+#EXTINF:0,Sunshine-Live | EMD | LoadTime!
+#EXTVLCOPT:network-caching=100
+https://stream.sunshine-live.de/edm/mp3-192/
+
+#EXTINF:0,Sunshine-Live | Techno | LoadTime!
+#EXTVLCOPT:network-caching=100
+https://stream.sunshine-live.de/techno/mp3-192/
+
+#EXTINF:0,Sunshine-Live | House | LoadTime!
+#EXTVLCOPT:network-caching=100
+https://stream.sunshine-live.de/house/mp3-192/
+
+#EXTINF:0,Sunshine-Live | Charts | LoadTime!
+#EXTVLCOPT:network-caching=100
+https://stream.sunshine-live.de/charts/mp3-192/
+
+
+#EXTINF:0,Radio23 |Tekno | CZ
+#EXTVLCOPT:network-caching=1000
+http://r23.cz/tekno.m3u
+#EXTINF:0,Radio23 | Breaks | CZ
+#EXTVLCOPT:network-caching=1000
+http://r23.cz/breaks.m3u
+#EXTINF:0,Radio23 | Psytrance | CZ
+#EXTVLCOPT:network-caching=1000
+http://r23.cz/psy.m3u
+#EXTINF:0,Radio23 | Hardcore | CZ
+#EXTVLCOPT:network-caching=1000
+http://r23.cz/hc.m3u
+#EXTINF:0,Rádio FM | SK
+#EXTVLCOPT:network-caching=100
+http://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:0,LocaFM | Spain
+#EXTVLCOPT:network-caching=100
+http://audio-online.net:2300/live
+#EXTINF:0,NRK P13 | Norway
+#EXTVLCOPT:network-caching=1000
+http://lyd.nrk.no/nrk_radio_p13_mp3_m
+#EXTINF:0,Gama Radio | CZ
+#EXTVLCOPT:network-caching=1000
+http://ice.abradio.cz/rockradio128.mp3
+#EXTINF:0,Rock Antenne
+#EXTVLCOPT:network-caching=1000
+http://mp3channels.webradio.antenne.de/rockantenne?amsparams=playerid:RockAntenneWebPlayer;skey:1459588920
+#EXTINF:0,Rock Antenne DeutschRock
+http://mp3channels.webradio.antenne.de/deutschrock?amsparams=playerid:RockAntenneWebPlayer;skey:1459597578
+#EXTINF:0,SPUTNIK Rock Channel
+#EXTVLCOPT:network-caching=1000
+http://avw.mdr.de/streams/284331-1_mp3_high.m3u
+#EXTINF:0, RadioRock | Italy
+http://audio1.meway.tv:8050
+#EXTINF:0,TSTU Metal | Ukrian
+http://www.surfmusic.de/m3u/tstu-metal-dsl,11214.m3u
+#EXTINF:0,MyRadio Chanson
+http://music.myradio.com.ua:8000/shanson128.mp3
+#EXTINF:0,Джем FM | Ukrian
+http://cast.radiogroup.com.ua:8000/jamfm
+#EXTINF:0,Studio B | Serbia
+http://radio.studiob.rs:8004/listen.pls
+#EXTINF:0,Шарманка | Ukrian
+http://217.20.164.170:8006/
+#EXTINF:0,RussianFM | RU
+http://radio.russianfm.de:8000/;stream.mp3
+#EXTINF:0,ХИТ FM | RU
+#EXTVLCOPT:network-caching=100
+http://online.hitfm.ua/HitFM
+#EXTINF:0,Radio Zvezda | RU
+http://stream.radiozvezda.ru:8088/zvezda_128
+#EXTINF:0, Radio Europa | RU
+http://ep128.hostingradio.ru:8030/ep128
+#EXTINF:0, НАШЕ Радио | RU
+#EXTVLCOPT:network-caching=1000
+http://nashe1.hostingradio.ru/nashe-128.mp3
+#EXTINF:0,Radio Passage | RU
+#EXTVLCOPT:network-caching=1000
+http://listen.radiopassazh.ru:8005/mp3-128
+#EXTINF:0,Radio Sibir | RU
+#EXTVLCOPT:network-caching=100
+http://stream.radiosibir.ru:8090/HQ
+#EXTINF:0,Maximum FM Café | RU
+#EXTVLCOPT:network-caching=2000
+http://icecast.radiomaximum.cdnvideo.ru/st36.mp3
+#EXTINF:0,Radio Stalingrad | RU
+#EXTVLCOPT:network-caching=2000
+http://stream.makradio.ru/stalingrad.mp3
+#EXTINF:0,Ado FM | France
+#EXTVLCOPT:network-caching=2000
+http://broadcast.infomaniak.net/start-adofm-high.mp3
+#EXTINF:0,FreshFM | NL
+#EXTVLCOPT:network-caching=2000
+http://www.fresh.fm/media/audio/ListenHigh.pls
+#EXTINF:0,NPO Radio 2 | NL
+#EXTVLCOPT:network-caching=2000
+http://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:0,NPO Radio 3 | NL
+#EXTVLCOPT:network-caching=2000
+http://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:0, SLAM! | NL
+#EXTVLCOPT:network-caching=2000
+https://17873.live.streamtheworld.com/SLAM_AAC.aac?ttag=PLAYER%3ANOPREROLL&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=7e919aca-9ff0-4849-db80-564257b709ee
