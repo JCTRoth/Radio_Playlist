@@ -15,17 +15,37 @@ http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u
 #EXTINF:0,HR Info
 http://metafiles.gl-systemhaus.de/hr/hrinfo_1.m3u
 
-#EXTINF:0,Radio Wattwurm
-#EXTVLCOPT:network-caching=1000
-http://radio-wattwurm.de/listen.pls
-
 #EXTINF:0,SRF 3 | Swiss
 #EXTVLCOPT:network-caching=1000
 http://stream.srg-ssr.ch/drs3/mp3_128.m3u
 
+#EXTINF:0,Radio Wattwurm
+#EXTVLCOPT:network-caching=1000
+http://radio-wattwurm.de/listen.pls
+
 #EXTINF:0,MDR Sputnik
 #EXTVLCOPT:network-caching=1000
 http://avw.mdr.de/streams/284330-0_mp3_high.m3u
+
+#EXTINF:0,FreshFM | NL
+#EXTVLCOPT:network-caching=1000
+http://www.fresh.fm/media/audio/ListenHigh.pls
+
+#EXTINF:0,VRT Hits | NL
+#EXTVLCOPT:network-caching=1000
+http://icecast.vrtcdn.be/mnm_hits-high.mp3
+
+#EXTINF:0,NPO Radio 2 | NL
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio2-bb-mp3
+
+#EXTINF:0,NRK P3 | Norway
+#EXTVLCOPT:network-caching=1000
+http://lyd.nrk.no/nrk_radio_p3_mp3_m
+
+#EXTINF:0,Das Ding FM
+#EXTVLCOPT:network-caching=500
+https://liveradio.swr.de/d9zadj3/dasding/
 
 #EXTINF:0,AFN Wiesbaden | US
 #EXTVLCOPT:network-caching=2000
@@ -203,26 +223,6 @@ http://stream.radiosibir.ru:8090/HQ
 #EXTINF:0,Radio Stalingrad | RU
 #EXTVLCOPT:network-caching=1000
 http://stream.makradio.ru/stalingrad.mp3
-
-#EXTINF:0,FreshFM | NL
-#EXTVLCOPT:network-caching=1000
-http://www.fresh.fm/media/audio/ListenHigh.pls
-
-#EXTINF:0,VRT Hits | NL
-#EXTVLCOPT:network-caching=1000
-http://icecast.vrtcdn.be/mnm_hits-high.mp3
-
-#EXTINF:0,NPO Radio 2 | NL
-#EXTVLCOPT:network-caching=1000
-http://icecast.omroep.nl/radio2-bb-mp3
-
-#EXTINF:0,NRK P3 | Norway
-#EXTVLCOPT:network-caching=1000
-http://lyd.nrk.no/nrk_radio_p3_mp3_m
-
-#EXTINF:0,Das Ding FM
-#EXTVLCOPT:network-caching=500
-https://liveradio.swr.de/d9zadj3/dasding/
 
 #EXTINF:0,MDR Figaro
 #EXTVLCOPT:network-caching=1000
