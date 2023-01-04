@@ -27,10 +27,6 @@ http://radio-wattwurm.de/listen.pls
 #EXTVLCOPT:network-caching=1000
 http://avw.mdr.de/streams/284330-0_mp3_high.m3u
 
-#EXTINF:0,FreshFM | NL
-#EXTVLCOPT:network-caching=1000
-http://www.fresh.fm/media/audio/ListenHigh.pls
-
 #EXTINF:0,VRT Hits | NL
 #EXTVLCOPT:network-caching=1000
 http://icecast.vrtcdn.be/mnm_hits-high.mp3
