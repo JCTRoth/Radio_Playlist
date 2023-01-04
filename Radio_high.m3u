@@ -93,7 +93,7 @@ https://stream.techno.fm/radio1.mp3
 
 #EXTINF:0,Radio Sputnik | House | NL
 #EXTVLCOPT:network-caching=1000
-https://radiosputnik.nl:8443/.m3u
+http://radiosputnik.nl:8002/
 
 #EXTINF:0,SPUTNIK Roboton Channel | DE
 #EXTVLCOPT:network-caching=1000
