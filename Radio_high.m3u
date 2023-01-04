@@ -51,6 +51,10 @@ http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs12.aac
 #EXTVLCOPT:network-caching=1000
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
+#EXTINF:0,ABC News Radio | Australia
+#EXTVLCOPT:network-caching=1000
+http://live-radio02.mediahubaustralia.com/PBW/mp3/
+
 #EXTINF:0,1 Live
 #EXTVLCOPT:network-caching=1000
 http://www.wdr.de/wdrlive/media/einslive.m3u
@@ -89,7 +93,7 @@ https://stream.techno.fm/radio1.mp3
 
 #EXTINF:0,Radio Sputnik | House | NL
 #EXTVLCOPT:network-caching=1000
-https://radiosputnik.nl:8443
+https://radiosputnik.nl:8443/.m3u
 
 #EXTINF:0,SPUTNIK Roboton Channel | DE
 #EXTVLCOPT:network-caching=1000
@@ -99,28 +103,28 @@ http://avw.mdr.de/streams/284331-5_mp3_high.m3u
 #EXTVLCOPT:network-caching=1000
 http://flaixfmweb.streaming-pro.com:8000
 
-#EXTINF:0,Sunshine-Live | Live | LoadTime!
-#EXTVLCOPT:network-caching=500
+#EXTINF:0,Sunshine-Live | Live
+#EXTVLCOPT:network-caching=300
 https://stream.sunshine-live.de/live/mp3-192/
 
-#EXTINF:0,Sunshine-Live | Drum and Bass | LoadTime!
-#EXTVLCOPT:network-caching=500
+#EXTINF:0,Sunshine-Live | Drum and Bass
+#EXTVLCOPT:network-caching=300
 https://stream.sunshine-live.de/dnb/mp3-192/
 
-#EXTINF:0,Sunshine-Live | EMD | LoadTime!
-#EXTVLCOPT:network-caching=500
+#EXTINF:0,Sunshine-Live | EMD
+#EXTVLCOPT:network-caching=300
 https://stream.sunshine-live.de/edm/mp3-192/
 
-#EXTINF:0,Sunshine-Live | Techno | LoadTime!
-#EXTVLCOPT:network-caching=500
+#EXTINF:0,Sunshine-Live | Techno
+#EXTVLCOPT:network-caching=300
 https://stream.sunshine-live.de/techno/mp3-192/
 
-#EXTINF:0,Sunshine-Live | House | LoadTime!
-#EXTVLCOPT:network-caching=500
+#EXTINF:0,Sunshine-Live | House
+#EXTVLCOPT:network-caching=300
 https://stream.sunshine-live.de/house/mp3-192/
 
-#EXTINF:0,Sunshine-Live | Charts | LoadTime!
-#EXTVLCOPT:network-caching=500
+#EXTINF:0,Sunshine-Live | Charts
+#EXTVLCOPT:network-caching=300
 https://stream.sunshine-live.de/charts/mp3-192/
 
 #EXTINF:0,Rádio FM | SK
@@ -153,7 +157,7 @@ http://avw.mdr.de/streams/284331-1_mp3_high.m3u
 
 #EXTINF:0, RadioRock | Italy
 #EXTVLCOPT:network-caching=1000
-http://audio1.meway.tv:8050
+https://rrock.fluidstream.eu/radiorock.aac
 
 #EXTINF:0, RadioBob | Germany
 #EXTVLCOPT:network-caching=1000
@@ -167,14 +171,12 @@ https://online.melodiafm.ua/MelodiaFM
 #EXTVLCOPT:network-caching=1000
 http://music.myradio.com.ua:8000/shanson128.mp3
 
-#EXTINF:0,Джем FM | Ukrian
-http://cast.radiogroup.com.ua:8000/jamfm
+#EXTINF:0,QazRadio | Kasachstan
+#EXTVLCOPT:network-caching=1000
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
 
 #EXTINF:0,Studio B | Serbia
 http://radio.studiob.rs:8004/listen.pls
-
-#EXTINF:0,Шарманка | Ukrian
-http://217.20.164.170:8006/
 
 #EXTINF:0,RussianFM | RU
 http://radio.russianfm.de:8000/;stream.mp3
@@ -182,9 +184,6 @@ http://radio.russianfm.de:8000/;stream.mp3
 #EXTINF:0,ХИТ FM | RU
 #EXTVLCOPT:network-caching=500
 http://online.hitfm.ua/HitFM
-
-#EXTINF:0,Radio Zvezda | RU
-http://stream.radiozvezda.ru:8088/zvezda_128
 
 #EXTINF:0, Radio Europa | RU
 http://ep128.hostingradio.ru:8030/ep128
@@ -209,6 +208,10 @@ http://stream.makradio.ru/stalingrad.mp3
 #EXTVLCOPT:network-caching=1000
 http://www.fresh.fm/media/audio/ListenHigh.pls
 
+#EXTINF:0,VRT Hits | NL
+#EXTVLCOPT:network-caching=1000
+http://icecast.vrtcdn.be/mnm_hits-high.mp3
+
 #EXTINF:0,NPO Radio 2 | NL
 #EXTVLCOPT:network-caching=1000
 http://icecast.omroep.nl/radio2-bb-mp3
@@ -228,6 +231,10 @@ http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
 #EXTINF:0,RadioSwissJazz.ch
 #EXTVLCOPT:network-caching=1000
 http://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:0,ABC Jazz Radio | Australia
+#EXTVLCOPT:network-caching=1000
+http://live-radio01.mediahubaustralia.com/JAZW/mp3
 
 #EXTINF:0,NRK Jazz | Norway
 #EXTVLCOPT:network-caching=1000
